@@ -1,3 +1,2 @@
-hello my name is lee
-i am good at programming
-hello world
+hello my name is lee!
+i am learning python!
